@@ -14,7 +14,7 @@ for img_path in images_path:
     # img_path = "LL_17074010_page-0007.jpg"
     
     # storing pdf path
-    pdf_path = os.path.join("images_pdf",img_path[7:-3]+"pdf")
+    pdf_path = os.path.join("images_pdf",img_path[7:-4]+"pdf")
     
     # opening image
     image = Image.open(img_path)
