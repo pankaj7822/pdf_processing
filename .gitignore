@@ -1,0 +1,6 @@
+final/
+images/
+images_pdf/
+text_pdf/
+*.pdf
+*.txt
