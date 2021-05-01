@@ -6,7 +6,7 @@ import img2pdf
 from PIL import Image
 import os
 
-images_path=[os.path.join("images",f) for f in os.listdir("images")]
+images_path=sorted[os.path.join("images",f) for f in os.listdir("images")]
 print(images_path)  
 # storing image path
 
