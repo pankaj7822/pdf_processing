@@ -1,0 +1,6 @@
+exec(open("createdirs.py").read())
+exec(open("getimages.py").read())
+exec(open("imagetopdf.py").read())
+exec(open("splitpdf.py").read())
+exec(open("createfinal.py").read())
+exec(open("mergepdf.py").read())
